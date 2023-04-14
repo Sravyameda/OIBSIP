@@ -1,0 +1,36 @@
+.converter {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  label, select, input {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  button {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  p {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  h1{
+    color: #4CAF50;
+    margin-top: 10px;
+  }
+  img{
+    background-repeat: no-repeat;
+    align-items: right;
+    width:200px;
+  }
+  
